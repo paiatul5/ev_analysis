@@ -1,0 +1,205 @@
+,Make ,Model,Model Year,Electric Vehicle Type,,
+0,Tesla,MODEL Y,2023,Battery Electric Vehicle,,53990
+1,Tesla,MODEL 3,2023,Battery Electric Vehicle,,44990
+2,Tesla,MODEL Y,2022,Battery Electric Vehicle,,53990
+3,Tesla,MODEL Y,2021,Battery Electric Vehicle,,49990
+4,Tesla,MODEL 3,2018,Battery Electric Vehicle,,35000
+5,Tesla,MODEL 3,2022,Battery Electric Vehicle,,44990
+6,Tesla,MODEL 3,2019,Battery Electric Vehicle,,35000
+7,Tesla,MODEL 3,2021,Battery Electric Vehicle,,39990
+8,Tesla,MODEL 3,2020,Battery Electric Vehicle,,39990
+9,Tesla,MODEL Y,2020,Battery Electric Vehicle,,49990
+10,Nissan,LEAF,2013,Battery Electric Vehicle,,28000
+11,Chevrolet,BOLT EUV,2023,Battery Electric Vehicle,,33995
+12,Nissan,LEAF,2015,Battery Electric Vehicle,,29010
+13,Tesla,MODEL Y,2024,Battery Electric Vehicle,,53990
+14,Ford,MUSTANG MACH-E,2023,Battery Electric Vehicle,,43895
+15,Tesla,MODEL X,2023,Battery Electric Vehicle,,89990
+16,Ford,F-150,2023,Battery Electric Vehicle,,39974
+17,Chevrolet,BOLT EV,2017,Battery Electric Vehicle,,36620
+18,Chevrolet,VOLT,2017,Plug-in,,33220
+19,Chevrolet,BOLT EV,2020,Battery Electric Vehicle,,36620
+20,Nissan,LEAF,2019,Battery Electric Vehicle,,29990
+21,Nissan,LEAF,2018,Battery Electric Vehicle,,29990
+22,Nissan,LEAF,2016,Battery Electric Vehicle,,29010
+23,Chevrolet,BOLT EV,2023,Battery Electric Vehicle,,33995
+24,Tesla,MODEL S,2015,Battery Electric Vehicle,,75000
+25,Chevrolet,BOLT EV,2019,Battery Electric Vehicle,,36620
+26,Ford,MUSTANG MACH-E,2022,Battery Electric Vehicle,,43895
+27,Kia,EV6,2023,Battery Electric Vehicle,,40900
+28,Nissan,LEAF,2022,Battery Electric Vehicle,,27400
+29,Kia,EV6,2022,Battery Electric Vehicle,,40900
+30,Chevrolet,BOLT EV,2022,Battery Electric Vehicle,,31995
+31,Tesla,MODEL S,2016,Battery Electric Vehicle,,71500
+32,Tesla,MODEL S,2017,Battery Electric Vehicle,,68000
+33,Nissan,LEAF,2017,Battery Electric Vehicle,,30680
+34,Tesla,MODEL S,2018,Battery Electric Vehicle,,78000
+35,Tesla,MODEL X,2018,Battery Electric Vehicle,,89990
+36,Ford,MUSTANG MACH-E,2021,Battery Electric Vehicle,,43895
+37,Tesla,MODEL X,2022,Battery Electric Vehicle,,99990
+38,Chevrolet,VOLT,2013,Plug-in,,39145
+39,Nissan,LEAF,2023,Battery Electric Vehicle,,27400
+40,Chevrolet,VOLT,2018,Plug-in,,33220
+41,Tesla,MODEL S,2013,Battery Electric Vehicle,,69900
+42,Bmw,I4,2023,Battery Electric Vehicle,,55400
+43,Nissan,LEAF,2020,Battery Electric Vehicle,,31620
+44,Nissan,LEAF,2021,Battery Electric Vehicle,,31670
+45,Tesla,MODEL X,2020,Battery Electric Vehicle,,79990
+46,Nissan,ARIYA,2023,Battery Electric Vehicle,,45950
+47,Nissan,LEAF,2011,Battery Electric Vehicle,,32780
+48,Chevrolet,VOLT,2014,Plug-in,,34170
+49,Tesla,MODEL S,2022,Battery Electric Vehicle,,94990
+50,Tesla,MODEL X,2017,Battery Electric Vehicle,,79990
+51,Tesla,MODEL X,2016,Battery Electric Vehicle,,83000
+52,Nissan,LEAF,2014,Battery Electric Vehicle,,28980
+53,Tesla,MODEL S,2014,Battery Electric Vehicle,,71070
+54,Bmw,X5,2022,Plug-in,,65400
+55,Kia,NIRO,2023,Battery Electric Vehicle,,39090
+56,Tesla,MODEL S,2023,Battery Electric Vehicle,,99990
+57,Nissan,LEAF,2012,Battery Electric Vehicle,,35200
+58,Kia,SPORTAGE,2023,Plug-in,,39045
+59,Kia,NIRO,2022,Battery Electric Vehicle,,39090
+60,Bmw,X5,2023,Plug-in,,65400
+61,Chevrolet,BOLT EV,2018,Battery Electric Vehicle,,36620
+62,Bmw,X5,2024,Plug-in,,65400
+63,Tesla,MODEL S,2021,Battery Electric Vehicle,,94990
+64,Chevrolet,VOLT,2012,Plug-in,,39145
+65,Chevrolet,BOLT EV,2021,Battery Electric Vehicle,,31995
+66,Kia,NIRO,2019,Battery Electric Vehicle,,24590
+67,Tesla,MODEL X,2019,Battery Electric Vehicle,,84990
+68,Bmw,IX,2024,Battery Electric Vehicle,,83200
+69,Kia,NIRO,2020,Battery Electric Vehicle,,24690
+70,Tesla,MODEL S,2020,Battery Electric Vehicle,,79990
+71,Ford,FUSION,2016,Plug-in,,34595
+72,Kia,SOUL,2016,Battery Electric Vehicle,,32250
+73,Ford,C-MAX,2013,Plug-in,,32950
+74,Chevrolet,VOLT,2015,Plug-in,,34345
+75,Ford,FUSION,2017,Plug-in,,34595
+76,Kia,SORENTO,2022,Plug-in,,45300
+77,Ford,F-150,2022,Battery Electric Vehicle,,39974
+78,Ford,C-MAX,2016,Plug-in,,27120
+79,Bmw,X5,2021,Plug-in,,65400
+80,Kia,NIRO,2023,Plug-in,,39090
+81,Bmw,I3,2017,Plug-in,,44450
+82,Bmw,IX,2023,Battery Electric Vehicle,,83200
+83,Bmw,I3,2014,Plug-in,,42400
+84,Tesla,MODEL S,2019,Battery Electric Vehicle,,79990
+85,Ford,C-MAX,2015,Plug-in,,24170
+86,Bmw,I3,2015,Plug-in,,44450
+87,Bmw,I4,2024,Battery Electric Vehicle,,55400
+88,Ford,C-MAX,2017,Plug-in,,24120
+89,Ford,C-MAX,2014,Plug-in,,24170
+90,Ford,FUSION,2014,Plug-in,,34595
+91,Kia,EV9,2024,Battery Electric Vehicle,,
+92,Kia,SORENTO,2023,Plug-in,,45300
+93,Kia,NIRO,2019,Plug-in,,24690
+94,Ford,ESCAPE,2022,Plug-in,,34285
+95,Ford,FUSION,2015,Plug-in,,34595
+96,Bmw,X3,2021,Plug-in,,49600
+97,Chevrolet,VOLT,2016,Plug-in,,33995
+98,Ford,TRANSIT,2023,Battery Electric Vehicle,,
+99,Kia,NIRO,2018,Plug-in,,27900
+100,Bmw,530E,2018,Plug-in,,57200
+101,Bmw,X5,2018,Plug-in,,65400
+102,Kia,EV6,2024,Battery Electric Vehicle,,40900
+103,Bmw,X5,2017,Plug-in,,62100
+104,Tesla,MODEL X,2021,Battery Electric Vehicle,,89990
+105,Ford,FUSION,2013,Plug-in,,34595
+106,Bmw,I3,2016,Plug-in,,44450
+107,Bmw,X5,2016,Plug-in,,62100
+108,Kia,NIRO,2022,Plug-in,,39090
+109,Ford,FUSION,2018,Plug-in,,34595
+110,Tesla,MODEL X,2024,Battery Electric Vehicle,,99990
+111,Tesla,MODEL 3,2024,Battery Electric Vehicle,,44990
+112,Ford,FUSION,2019,Plug-in,,34595
+113,Ford,TRANSIT,2022,Battery Electric Vehicle,,
+114,Bmw,IX,2022,Battery Electric Vehicle,,83200
+115,Kia,SOUL EV,2017,Battery Electric Vehicle,,33950
+116,Bmw,I3,2019,Plug-in,,44450
+117,Bmw,I3,2018,Plug-in,,44450
+118,Bmw,I3,2014,Battery Electric Vehicle,,42400
+119,Tesla,MODEL S,2012,Battery Electric Vehicle,,49900
+120,Chevrolet,VOLT,2019,Plug-in,,33520
+121,Bmw,I4,2022,Battery Electric Vehicle,,55400
+122,Kia,NIRO,2024,Battery Electric Vehicle,,39090
+123,Bmw,330E,2023,Plug-in,,45500
+124,Bmw,I3,2017,Battery Electric Vehicle,,44450
+125,Kia,NIRO,2020,Plug-in,,26590
+126,Ford,ESCAPE,2023,Plug-in,,34285
+127,Bmw,I3,2018,Battery Electric Vehicle,,44450
+128,Chevrolet,SPARK,2015,Battery Electric Vehicle,,25995
+129,Bmw,330E,2017,Plug-in,,45600
+130,Bmw,I3,2015,Battery Electric Vehicle,,42400
+131,Bmw,530E,2019,Plug-in,,54400
+132,Chevrolet,SPARK,2016,Battery Electric Vehicle,,25995
+133,Nissan,LEAF,2024,Battery Electric Vehicle,,27400
+134,Bmw,X3,2020,Plug-in,,49600
+135,Bmw,330E,2018,Plug-in,,45500
+136,Kia,NIRO,2024,Plug-in,,39090
+137,Chevrolet,VOLT,2011,Plug-in,,39145
+138,Kia,SOUL EV,2018,Battery Electric Vehicle,,33950
+139,Bmw,330E,2022,Plug-in,,45500
+140,Bmw,I3,2019,Battery Electric Vehicle,,44450
+141,Ford,FUSION,2020,Plug-in,,34450
+142,Bmw,330E,2021,Plug-in,,45500
+143,Bmw,I5,2024,Battery Electric Vehicle,,
+144,Tesla,MODEL 3,2017,Battery Electric Vehicle,,35000
+145,Kia,SPORTAGE,2024,Plug-in,,39045
+146,Ford,ESCAPE,2021,Plug-in,,34285
+147,Kia,SORENTO,2024,Plug-in,,45300
+148,Chevrolet,SPARK,2014,Battery Electric Vehicle,,25995
+149,Ford,FOCUS,2013,Battery Electric Vehicle,,33995
+150,Kia,OPTIMA,2017,Plug-in,,23190
+151,Ford,FOCUS,2014,Battery Electric Vehicle,,34730
+152,Bmw,530E,2023,Plug-in,,54400
+153,Kia,NIRO,2021,Battery Electric Vehicle,,39090
+154,Bmw,I3,2020,Plug-in,,44450
+155,Chevrolet,SILVERADO EV,2024,Battery Electric Vehicle,,
+156,Tesla,MODEL S,2024,Battery Electric Vehicle,,94990
+157,Kia,OPTIMA,2018,Plug-in,,22990
+158,Bmw,I3,2021,Battery Electric Vehicle,,45450
+159,Ford,FOCUS,2015,Battery Electric Vehicle,,37900
+160,Ford,FOCUS,2016,Battery Electric Vehicle,,37900
+161,Bmw,I8,2015,Plug-in,,147500
+162,Bmw,I3,2020,Battery Electric Vehicle,,44450
+163,Kia,NIRO,2021,Plug-in,,24690
+164,Bmw,530E,2022,Plug-in,,54400
+165,Bmw,I8,2019,Plug-in,,147500
+166,Bmw,I3,2016,Battery Electric Vehicle,,44450
+167,Bmw,330E,2024,Plug-in,,45500
+168,Ford,FOCUS,2017,Battery Electric Vehicle,,37900
+169,Bmw,530E,2021,Plug-in,,54400
+170,Tesla,ROADSTER,2008,Battery Electric Vehicle,,109000
+171,Kia,SOUL,2015,Battery Electric Vehicle,,33950
+172,Tesla,ROADSTER,2010,Battery Electric Vehicle,,109000
+173,Bmw,740E,2018,Plug-in,,90700
+174,Bmw,530E,2020,Plug-in,,54400
+175,Bmw,I7,2024,Battery Electric Vehicle,,
+176,Chevrolet,BLAZER EV,2024,Battery Electric Vehicle,,
+177,Bmw,I8,2016,Plug-in,,147500
+178,Kia,OPTIMA,2020,Plug-in,,23190
+179,Ford,FOCUS,2012,Battery Electric Vehicle,,33995
+180,Bmw,I8,2014,Plug-in,,147500
+181,Bmw,330E,2016,Plug-in,,45600
+182,Bmw,XM,2024,Plug-in,,
+183,Bmw,745E,2020,Plug-in,,95550
+184,Ford,FOCUS,2018,Battery Electric Vehicle,,37900
+185,Bmw,740E,2017,Plug-in,,90700
+186,Bmw,I3,2021,Plug-in,,45450
+187,Ford,ESCAPE,2024,Plug-in,,34285
+188,Tesla,ROADSTER,2011,Battery Electric Vehicle,,200000
+189,Ford,RANGER,2000,Battery Electric Vehicle,,14920
+190,Bmw,I8,2017,Plug-in,,147500
+191,Ford,RANGER,1999,Battery Electric Vehicle,,13900
+192,Bmw,740E,2019,Plug-in,,90700
+193,Kia,SOUL EV,2019,Battery Electric Vehicle,,33950
+194,Bmw,745LE,2022,Plug-in,,105000
+195,Kia,OPTIMA,2019,Plug-in,,22990
+196,Ford,MUSTANG MACH-E,2024,Battery Electric Vehicle,,43895
+197,Ford,F-150,2024,Battery Electric Vehicle,,39974
+198,Ford,RANGER,1998,Battery Electric Vehicle,,12560
+199,Chevrolet,S-10 PICKUP,1997,Battery Electric Vehicle,,10565
+200,Bmw,I8,2020,Plug-in,,147500
+201,Bmw,750E,2024,Plug-in,,
+202,Bmw,745E,2021,Plug-in,,95550
+203,Tesla,CYBERTRUCK,2024,Battery Electric Vehicle,,39900
